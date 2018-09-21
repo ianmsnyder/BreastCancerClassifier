@@ -25,7 +25,7 @@ print(breast_cancer_data.target_names)
 
 # 4, 5, and 6.  Import train_test_split (done above), call function - data, target, size and state
 
-# Give option to change random_state.  This is a preview to part 18 - leave varirable do_random_state False for now, then experiment to see how different values affect outcomes.
+# Give option to change random_state.  This is a preview to part 18 - leave variable do_random_state False for now, then experiment to see how different values affect outcomes.
 
 do_random_state=False 
 if do_random_state:
